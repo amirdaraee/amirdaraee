@@ -14,18 +14,18 @@ With nearly **10 years of experience** in software development, I focus on creat
 
 ## 💡 About Me
 
-- 🧠 Currently working at **Dennemeyer Techsys SA** as a Software Developer
-- 🌍 Originally from **Iran**, now living and working in **Luxembourg**
-- 🧩 Learning more about **AI**, **LLMs**, and **machine learning** concepts
-- ⚙️ Strong background in **.NET**, **C#**, **REST APIs**, and **SQL**
-- 🧰 Exploring **front-end frameworks**, **cloud services**, and **DevOps (CI/CD)**  
+- Currently working at **Dennemeyer Techsys SA** as a Software Developer
+- Originally from **Iran**, now living and working in **Luxembourg**
+- Learning more about **AI**, **LLMs**, and **machine learning** concepts
+- Strong background in **.NET**, **C#**, **REST APIs**, and **SQL**
+- Exploring **front-end frameworks**, **cloud services**, and **DevOps (CI/CD)**  
 
 ---
 
 ## 📚 Interests
-- 🎮 Video games, 🎬 movies & series, 📖 sci-fi & fantasy books
-- ⚡ Exploring new technologies and personal productivity
-- 🧘 Health & wellness through better habits and tracking
+- Video games, movies & series, sci-fi & fantasy books
+- Exploring new technologies and personal productivity
+- Health & wellness through better habits and tracking
 
 ---
 
